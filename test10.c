@@ -92,5 +92,5 @@ int main(void) {
     free(stu);
     stu = NULL;
 
-    return 0;
+    return 0;//jnjhnjn
 }
